@@ -1,0 +1,8 @@
+name: "BadMindustry"
+displayName: "Bad Mindustry"
+author: "laylawolfss"
+description: "Cursed Mindustry renaming project, this will always be in beta"
+version: "beta-1.0"
+minGameVersion: "152.2"
+dependencies: []
+hidden: false
